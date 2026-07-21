@@ -836,6 +836,11 @@ hash = "9d6d8d31e50beb170bab2a20044771b5b3ac9c6c8f5f52a2356eece23ad1e4e3"
 metafile = true
 
 [[files]]
+file = "mods/twilights-flavors-delight.pw.toml"
+hash = "24f7c7e71dfc654dfa73999e236955f03cfef2ef7a3851b9fff7981995ba7331"
+metafile = true
+
+[[files]]
 file = "mods/uranus.pw.toml"
 hash = "871c2c9e058c001c3eae91d7f6329fae068d284defb758a7c9552a919ee78f21"
 metafile = true
