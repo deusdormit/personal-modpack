@@ -101,6 +101,11 @@ hash = "a445471ac6843bcf9fb76eabb4357de0357dfa7782be536a7827a26764fe45c1"
 metafile = true
 
 [[files]]
+file = "mods/auto-hud.pw.toml"
+hash = "16b519f194badd6ec883e0c03673c4cbc7ffbb395bd2f71612411e4e41ced895"
+metafile = true
+
+[[files]]
 file = "mods/baguettelib.pw.toml"
 hash = "1a52b3a6071fa86dc0854189e110e7dd6c27c0944856fee39a781f58275e1cdd"
 metafile = true
@@ -421,6 +426,11 @@ hash = "dbc34ada7af1fe08105d440312f544dc1fc0ef2032ef8bc0adda9f0e9c4fb067"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "37c3d507be086258aec8a0814224578a1c665749adbb0332d33c32a684086d94"
+metafile = true
+
+[[files]]
 file = "mods/incendium.pw.toml"
 hash = "5a1604eb3c113c5a540de4768de72660ea652b41730ea318798a24b9f60d88b7"
 metafile = true
@@ -621,6 +631,11 @@ hash = "28c76f903da7d4b27f029d195b0873c0c826080022f8bbb1377d8c83ccd3e47e"
 metafile = true
 
 [[files]]
+file = "mods/neocontinuity.pw.toml"
+hash = "43cc8cd706b5f8abcf9f013ea4934100826109a57a920acfdab0d01c8cfef8f1"
+metafile = true
+
+[[files]]
 file = "mods/notenoughrecipebook.pw.toml"
 hash = "02c4f941c76c49cbaeb17e549dc0e37562ff5cbd6ca51fec9d8da3bb73538507"
 metafile = true
@@ -731,6 +746,11 @@ hash = "4f38a1932a493c7b100f13356c65bf1cc4d43e4cb3430d428202452d1d5800a0"
 metafile = true
 
 [[files]]
+file = "mods/small-ships.pw.toml"
+hash = "dc7140923a01338926a9bea3708b12ddc2599c1bb6c52b5dc624dbdcdde9385e"
+metafile = true
+
+[[files]]
 file = "mods/smooth-skies.pw.toml"
 hash = "5a9a51d8024fac91021dd163d5f651946851b6f5cd7ca57ef337375d6a3455db"
 metafile = true
@@ -806,6 +826,11 @@ hash = "9088f93a00bc3242f0239a7115bdcbc4480e19c6120f5396fb3af27d77abda3e"
 metafile = true
 
 [[files]]
+file = "mods/tide.pw.toml"
+hash = "cd4f259b6d6da3cd38453ca85d399008188ebf53aad649231be2729e3fb9bc6e"
+metafile = true
+
+[[files]]
 file = "mods/too-fast.pw.toml"
 hash = "652bc2a41a85b48d4b4e8103b4be578326b42afad1cdcfb8257a114dd713f1bb"
 metafile = true
@@ -848,6 +873,11 @@ metafile = true
 [[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "f28ceb27bc3ed0a9825de1f853d177b69495deab9128aa05694616e4504ddb52"
+metafile = true
+
+[[files]]
+file = "mods/wakes-reforged.pw.toml"
+hash = "45f2716f6f9df0cfbe1bb7220639fce697452dbbaf8c7b45a283667c90685104"
 metafile = true
 
 [[files]]
