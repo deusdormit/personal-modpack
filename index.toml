@@ -101,11 +101,6 @@ hash = "a445471ac6843bcf9fb76eabb4357de0357dfa7782be536a7827a26764fe45c1"
 metafile = true
 
 [[files]]
-file = "mods/auto-hud.pw.toml"
-hash = "16b519f194badd6ec883e0c03673c4cbc7ffbb395bd2f71612411e4e41ced895"
-metafile = true
-
-[[files]]
 file = "mods/baguettelib.pw.toml"
 hash = "1a52b3a6071fa86dc0854189e110e7dd6c27c0944856fee39a781f58275e1cdd"
 metafile = true
@@ -868,11 +863,6 @@ metafile = true
 [[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "f28ceb27bc3ed0a9825de1f853d177b69495deab9128aa05694616e4504ddb52"
-metafile = true
-
-[[files]]
-file = "mods/wakes-reforged.pw.toml"
-hash = "45f2716f6f9df0cfbe1bb7220639fce697452dbbaf8c7b45a283667c90685104"
 metafile = true
 
 [[files]]
