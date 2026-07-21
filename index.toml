@@ -72,7 +72,12 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
-hash = "18d7fdd3852c40e9ea63a9597f5402f8ac3dd4d4a62c81e3a6cbe09daa009b02"
+hash = "0250566c915c794731744f1f41b4a876a021b9185c9a0f5f77582d90d1e17e79"
+metafile = true
+
+[[files]]
+file = "mods/ars-nouveaus-flavors-delight.pw.toml"
+hash = "a533288e59a527a43cfc978bd82a4eaeb157c803d9bd4dcbfc810ca16a612e58"
 metafile = true
 
 [[files]]
