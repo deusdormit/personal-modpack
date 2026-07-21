@@ -1,0 +1,13 @@
+name = "Musgo"
+filename = "Musgo.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "30b4a70757b19f3e1cbcc79f21f5d797c0fa0a9c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7821048
+project-id = 1305044
